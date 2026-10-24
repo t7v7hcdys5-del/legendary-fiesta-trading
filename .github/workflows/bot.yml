@@ -1,0 +1,35 @@
+name: Paper-Trading-Bot
+ 
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # alle 15 Minuten (GitHub startet oft ein paar Minuten später)
+  workflow_dispatch:          # erlaubt manuellen Start über den "Run workflow"-Knopf
+ 
+permissions:
+  contents: write             # damit der Bot seine Ergebnisse speichern darf
+ 
+concurrency:
+  group: paper-bot
+  cancel-in-progress: false
+ 
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - name: Bot ausführen
+        run: python3 bot.py
+ 
+      - name: Ergebnisse speichern
+        run: |
+          git config user.name "paper-bot"
+          git config user.email "paper-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+            exit 0
+          fi
+          git commit -m "Bot-Update $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
