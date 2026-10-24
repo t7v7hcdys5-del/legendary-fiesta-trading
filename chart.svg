@@ -11,9 +11,9 @@
 <line x1="70" x2="780" y1="20.0" y2="20.0" stroke="#eeeeee"/>
 <text x="62" y="24.0" text-anchor="end" fill="#666">24.02</text>
 <line x1="70" x2="780" y1="37.2" y2="37.2" stroke="#bbbbbb" stroke-dasharray="4 4"/>
-<polyline points="70.0,37.2 425.0,121.8 780.0,252.8" fill="none" stroke="#2b7de9" stroke-width="2"/>
-<polyline points="70.0,37.2 425.0,37.2 780.0,37.2" fill="none" stroke="#e9862b" stroke-width="2"/>
-<polyline points="70.0,121.8 425.0,119.8 780.0,166.6" fill="none" stroke="#888888" stroke-width="2"/>
+<polyline points="70.0,37.2 306.7,121.8 543.3,252.8 780.0,252.8" fill="none" stroke="#2b7de9" stroke-width="2"/>
+<polyline points="70.0,37.2 306.7,37.2 543.3,37.2 780.0,37.2" fill="none" stroke="#e9862b" stroke-width="2"/>
+<polyline points="70.0,121.8 306.7,119.8 543.3,166.6 780.0,165.7" fill="none" stroke="#888888" stroke-width="2"/>
 <rect x="70" y="295" width="14" height="4" fill="#2b7de9"/>
 <text x="90" y="301" fill="#333">Trendfolge (EMA 12/48)</text>
 <rect x="310" y="295" width="14" height="4" fill="#e9862b"/>
