@@ -11,9 +11,9 @@
 <line x1="70" x2="780" y1="20.0" y2="20.0" stroke="#eeeeee"/>
 <text x="62" y="24.0" text-anchor="end" fill="#666">24.03</text>
 <line x1="70" x2="780" y1="37.2" y2="37.2" stroke="#bbbbbb" stroke-dasharray="4 4"/>
-<polyline points="70.0,37.2 171.4,98.2 272.9,192.5 374.3,192.5 475.7,192.5 577.1,252.8 678.6,248.0 780.0,208.2" fill="none" stroke="#2b7de9" stroke-width="2"/>
-<polyline points="70.0,37.2 171.4,37.2 272.9,37.2 374.3,37.2 475.7,37.2 577.1,37.2 678.6,37.2 780.0,37.2" fill="none" stroke="#e9862b" stroke-width="2"/>
-<polyline points="70.0,98.2 171.4,96.7 272.9,130.5 374.3,129.8 475.7,106.4 577.1,89.5 678.6,84.7 780.0,44.4" fill="none" stroke="#888888" stroke-width="2"/>
+<polyline points="70.0,37.2 158.8,98.2 247.5,192.5 336.2,192.5 425.0,192.5 513.8,252.8 602.5,248.0 691.2,208.2 780.0,221.7" fill="none" stroke="#2b7de9" stroke-width="2"/>
+<polyline points="70.0,37.2 158.8,37.2 247.5,37.2 336.2,37.2 425.0,37.2 513.8,37.2 602.5,37.2 691.2,37.2 780.0,37.2" fill="none" stroke="#e9862b" stroke-width="2"/>
+<polyline points="70.0,98.2 158.8,96.7 247.5,130.5 336.2,129.8 425.0,106.4 513.8,89.5 602.5,84.7 691.2,44.4 780.0,58.1" fill="none" stroke="#888888" stroke-width="2"/>
 <rect x="70" y="295" width="14" height="4" fill="#2b7de9"/>
 <text x="90" y="301" fill="#333">Trendfolge (EMA 12/48)</text>
 <rect x="310" y="295" width="14" height="4" fill="#e9862b"/>
