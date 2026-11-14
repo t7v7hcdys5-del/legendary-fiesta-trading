@@ -2,14 +2,14 @@
 ## Aktueller Stand
 
 **Gestartet:** 2026-10-24 20:15 UTC  
-**Letztes Update:** 2026-11-14 12:15 UTC  
-**Bitcoin-Preis:** 60.954,50 € (Start: 71.859,70 €)
+**Letztes Update:** 2026-11-14 13:15 UTC  
+**Bitcoin-Preis:** 60.515,60 € (Start: 71.859,70 €)
 
 | Strategie | Kontostand | Ergebnis | Trades | Gezahlte Gebühren | Gerade |
 |---|---:|---:|---:|---:|---|
 | Trendfolge (EMA 12/48) | 19,38 € | -19,25 % | 38 | 3,27 € | in Euro |
-| Gegenbewegung (RSI 14) | 20,94 € | -12,75 % | 21 | 1,94 € | in Bitcoin |
-| Kaufen & Halten (Vergleich) | 20,27 € | -15,56 % | 1 | 0,10 € | in Bitcoin |
+| Gegenbewegung (RSI 14) | 20,79 € | -13,38 % | 21 | 1,94 € | in Bitcoin |
+| Kaufen & Halten (Vergleich) | 20,12 € | -16,17 % | 1 | 0,10 € | in Bitcoin |
 
 ![Verlauf des Kontostands](chart.svg)
 
