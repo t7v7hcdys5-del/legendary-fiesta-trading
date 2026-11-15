@@ -2,8 +2,8 @@
 ## Aktueller Stand
 
 **Gestartet:** 2026-10-24 20:15 UTC  
-**Letztes Update:** 2026-11-15 11:30 UTC  
-**Bitcoin-Preis:** 59.651,00 € (Start: 71.859,70 €)
+**Letztes Update:** 2026-11-15 12:15 UTC  
+**Bitcoin-Preis:** 59.650,00 € (Start: 71.859,70 €)
 
 | Strategie | Kontostand | Ergebnis | Trades | Gezahlte Gebühren | Gerade |
 |---|---:|---:|---:|---:|---|
