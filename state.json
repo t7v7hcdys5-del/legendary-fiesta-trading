@@ -1,14 +1,14 @@
 {
   "started": "2026-10-24 20:15 UTC",
   "start_price": 71859.7,
-  "last_candle": 1795787100,
-  "last_price": 56081.2,
+  "last_candle": 1795817700,
+  "last_price": 54595.4,
   "portfolios": {
     "trend": {
-      "cash": 0.0,
-      "btc": 0.00030103464817218036,
-      "trades": 63,
-      "fees": 5.034874712244578
+      "cash": 16.36118191939483,
+      "btc": 0.0,
+      "trades": 64,
+      "fees": 5.100582270153795
     },
     "rsi": {
       "cash": 18.920936202539785,
